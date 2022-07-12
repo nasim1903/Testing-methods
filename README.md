@@ -8,4 +8,6 @@ This respository contains example code for Javascript testing.
 
 ## Develeopment
 
+All testing in this project is done using Jest
+
 - Run tests with `npm run test`
